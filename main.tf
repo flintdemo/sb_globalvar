@@ -1,4 +1,8 @@
 
+variable "juhu" {
+  type = string
+}
+
 variable "globalwsname" {
   type = string
 }
